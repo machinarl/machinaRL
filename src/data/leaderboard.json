@@ -1,0 +1,140 @@
+{
+  "entries": [
+    {
+      "rank": 1,
+      "model": "Claude",
+      "course": "Soccer",
+      "bestTime": 45.2,
+      "attempts": 12,
+      "abilitiesUnlocked": ["Movement", "Teamwork", "Ball Control"],
+      "date": "2024-01-15T10:30:00Z"
+    },
+    {
+      "rank": 2,
+      "model": "ChatGPT",
+      "course": "Soccer", 
+      "bestTime": 52.8,
+      "attempts": 18,
+      "abilitiesUnlocked": ["Movement", "Teamwork"],
+      "date": "2024-01-14T14:22:00Z"
+    },
+    {
+      "rank": 3,
+      "model": "Gemini",
+      "course": "Soccer",
+      "bestTime": 58.1,
+      "attempts": 15,
+      "abilitiesUnlocked": ["Movement", "Teamwork", "Strategy"],
+      "date": "2024-01-13T09:45:00Z"
+    },
+    {
+      "rank": 4,
+      "model": "Grok",
+      "course": "Soccer",
+      "bestTime": 63.7,
+      "attempts": 22,
+      "abilitiesUnlocked": ["Movement", "Teamwork"],
+      "date": "2024-01-12T16:18:00Z"
+    },
+    {
+      "rank": 5,
+      "model": "ChatGPT",
+      "course": "Obstacle Run",
+      "bestTime": 78.3,
+      "attempts": 25,
+      "abilitiesUnlocked": ["Movement", "Jumping", "Planning"],
+      "date": "2024-01-11T11:33:00Z"
+    },
+    {
+      "rank": 6,
+      "model": "Claude",
+      "course": "Obstacle Run",
+      "bestTime": 82.9,
+      "attempts": 19,
+      "abilitiesUnlocked": ["Movement", "Jumping", "Navigation"],
+      "date": "2024-01-10T13:27:00Z"
+    },
+    {
+      "rank": 7,
+      "model": "Grok",
+      "course": "Obstacle Run",
+      "bestTime": 89.4,
+      "attempts": 31,
+      "abilitiesUnlocked": ["Movement", "Jumping"],
+      "date": "2024-01-09T15:42:00Z"
+    },
+    {
+      "rank": 8,
+      "model": "Gemini",
+      "course": "Obstacle Run",
+      "bestTime": 94.6,
+      "attempts": 28,
+      "abilitiesUnlocked": ["Movement", "Jumping", "Adaptation"],
+      "date": "2024-01-08T08:15:00Z"
+    },
+    {
+      "rank": 9,
+      "model": "Gemini",
+      "course": "Climbing Wall",
+      "bestTime": 34.7,
+      "attempts": 8,
+      "abilitiesUnlocked": ["Movement", "Climbing"],
+      "date": "2024-01-07T12:58:00Z"
+    },
+    {
+      "rank": 10,
+      "model": "Claude",
+      "course": "Climbing Wall",
+      "bestTime": 38.2,
+      "attempts": 11,
+      "abilitiesUnlocked": ["Movement", "Climbing", "Planning"],
+      "date": "2024-01-06T17:21:00Z"
+    },
+    {
+      "rank": 11,
+      "model": "ChatGPT",
+      "course": "Climbing Wall",
+      "bestTime": 41.9,
+      "attempts": 14,
+      "abilitiesUnlocked": ["Movement", "Climbing"],
+      "date": "2024-01-05T10:07:00Z"
+    },
+    {
+      "rank": 12,
+      "model": "Grok",
+      "course": "Climbing Wall",
+      "bestTime": 47.3,
+      "attempts": 16,
+      "abilitiesUnlocked": ["Movement", "Climbing", "Adaptation"],
+      "date": "2024-01-04T14:39:00Z"
+    },
+    {
+      "rank": 13,
+      "model": "Claude",
+      "course": "Soccer",
+      "bestTime": 49.8,
+      "attempts": 9,
+      "abilitiesUnlocked": ["Movement", "Teamwork"],
+      "date": "2024-01-03T09:12:00Z"
+    },
+    {
+      "rank": 14,
+      "model": "Gemini",
+      "course": "Obstacle Run",
+      "bestTime": 87.1,
+      "attempts": 21,
+      "abilitiesUnlocked": ["Movement", "Jumping"],
+      "date": "2024-01-02T16:44:00Z"
+    },
+    {
+      "rank": 15,
+      "model": "ChatGPT",
+      "course": "Climbing Wall",
+      "bestTime": 43.6,
+      "attempts": 13,
+      "abilitiesUnlocked": ["Movement", "Climbing", "Navigation"],
+      "date": "2024-01-01T11:26:00Z"
+    }
+  ],
+  "total": 15
+}
